@@ -1,0 +1,39 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-public-sans: "Public Sans";
+  --font-comic-neue: "Comic Neue";
+  --font-comic-sans-ms: "Comic Sans MS";
+
+  /* font sizes */
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 24px;
+  --font-size-xl: 28px;
+  --font-size-2xl: 32px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 58px;
+
+  /* Colors */
+  --color-gray-100: #898989;
+  --color-gray-200: #26292c;
+  --color-gray-300: #1a1a1a;
+  --color-white: #fff;
+  --color-red-100: #ff0000;
+  --color-tomato: #ff5050;
+  --color-black: #000;
+  --color-salmon: #ff7171;
+  --color-darkslategray-100: #383b3e;
+  --color-darkslategray-200: #2a2c2d;
+  --color-dimgray: #635c5c;
+  --color-sandybrown: #fd9e47;
+  --color-powderblue: #bbe3e8;
+  --color-slategray: #626878;
+
+  /* border radiuses */
+  --br-xs: 10px;
+  --br-sm: 12px;
+  --br-md: 15px;
+  --br-lg: 23px;
+  --br-xl: 200px;
+}
